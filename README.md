@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Cat</h1>
 <h3 align="center">A data scientist from the UK</h3>
 
-- 🔭 I’m currently working on **developing and testing forecasting models.**
+- 🔭 I’m currently working on **developing and testing machine learning models and building data tools with AI.**
 
 - 👯 I’m looking to collaborate on **data science projects.**
 
-- 💬 Ask me about **R programming and how to generate business insights.**
+- 💬 Ask me about **programming and how to generate business insights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
